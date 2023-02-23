@@ -1,6 +1,8 @@
 
 [2.5 Process overview](#25-process-overview)
+
 [2.6 Code: starting xv6, the first process and system call](#26-code-starting-xv6-the-first-process-and-system-call)
+
 [2.7 Security Model](#27-security-model)
 
 ## 2.5 Process overview
